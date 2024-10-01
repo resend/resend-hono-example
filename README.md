@@ -1,4 +1,4 @@
-# Resend with Example
+# Resend with Hono
 
 This example shows how to use Resend with [Hono](https://hono.dev/).
 
