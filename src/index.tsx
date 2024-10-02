@@ -14,7 +14,7 @@ app.get('/', async (c) => {
   });
 
   if (error) {
-    return c.json(error);
+    return c.json(error, 400);
   }
 
   return c.json(data);
