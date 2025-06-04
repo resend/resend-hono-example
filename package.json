@@ -15,5 +15,6 @@
     "@cloudflare/workers-types": "4.20250604.0",
     "@types/react": "19.1.6",
     "wrangler": "4.19.1"
-  }
+  },
+  "packageManager": "pnpm@10.11.1"
 }
