@@ -5,13 +5,13 @@
     "deploy": "wrangler deploy --minify src/index.tsx"
   },
   "dependencies": {
-    "hono": "^4.5.11",
-    "react": "^18.3.1",
-    "resend": "^4.0.0"
+    "hono": "4.5.11",
+    "react": "18.3.1",
+    "resend": "4.0.0"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20240529.0",
-    "@types/react": "^18.3.5",
-    "wrangler": "^3.57.2"
+    "@cloudflare/workers-types": "4.20240529.0",
+    "@types/react": "18.3.5",
+    "wrangler": "3.57.2"
   }
 }
