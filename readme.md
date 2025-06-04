@@ -11,7 +11,11 @@ To get the most out of this guide, you’ll need to:
 
 ## Instructions
 
-1. Replace `re_123456789` on `index.tsx` with your API key.
+1. Define environment variables in `.env` file.
+
+```sh
+cp .dev.vars.example .dev.vars
+```
 
 2. Install dependencies:
 
@@ -22,7 +26,7 @@ pnpm install
 3. Execute the following command:
 
 ```sh
-pnpm run dev
+pnpm dev
 ```
 
 ## License
