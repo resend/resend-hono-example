@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
-    "@cloudflare/workers-types": "4.20240529.0",
+    "@cloudflare/workers-types": "4.20250604.0",
     "@types/react": "18.3.5",
     "wrangler": "3.57.2"
   }
