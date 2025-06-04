@@ -2,7 +2,8 @@
   "name": "resend-hono-example",
   "scripts": {
     "dev": "wrangler dev src/index.tsx",
-    "deploy": "wrangler deploy --minify src/index.tsx"
+    "lint:fix": "biome check . --write",
+    "lint": "biome check ."
   },
   "dependencies": {
     "hono": "4.5.11",
@@ -10,6 +11,7 @@
     "resend": "4.0.0"
   },
   "devDependencies": {
+    "@biomejs/biome": "1.9.4",
     "@cloudflare/workers-types": "4.20240529.0",
     "@types/react": "18.3.5",
     "wrangler": "3.57.2"
