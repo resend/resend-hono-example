@@ -5,7 +5,7 @@
     "deploy": "wrangler deploy --minify src/index.tsx"
   },
   "dependencies": {
-    "hono": "4.5.11",
+    "hono": "4.6.5",
     "react": "18.3.1",
     "resend": "4.0.0"
   },
