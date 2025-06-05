@@ -29,6 +29,11 @@ pnpm install
 pnpm dev
 ```
 
+4. Open URL in the browser:
+```
+http://localhost:8787
+```
+
 ## License
 
 MIT License
