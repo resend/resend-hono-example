@@ -14,7 +14,7 @@
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
     "@cloudflare/workers-types": "4.20250605.0",
-    "@types/react": "19.1.6",
+    "@types/react": "19.1.8",
     "wrangler": "4.21.0"
   },
   "packageManager": "pnpm@10.12.3"
