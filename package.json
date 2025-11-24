@@ -6,7 +6,7 @@
     "lint": "biome check ."
   },
   "dependencies": {
-    "hono": "4.8.4",
+    "hono": "4.9.6",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "resend": "6.5.2"

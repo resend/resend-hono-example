@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       hono:
-        specifier: 4.8.4
-        version: 4.8.4
+        specifier: 4.9.6
+        version: 4.9.6
       react:
         specifier: 19.1.0
         version: 19.1.0
@@ -529,8 +529,8 @@ packages:
   glob-to-regexp@0.4.1:
     resolution: {integrity: sha512-lkX1HJXwyMcprw/5YUZc2s7DrpAiHB21/V+E1rHUrVNokkvB6bqMzT0VfV6/86ZNabt1k14YOIaT7nDvOX3Iiw==}
 
-  hono@4.8.4:
-    resolution: {integrity: sha512-KOIBp1+iUs0HrKztM4EHiB2UtzZDTBihDtOF5K6+WaJjCPeaW4Q92R8j63jOhvJI5+tZSMuKD9REVEXXY9illg==}
+  hono@4.9.6:
+    resolution: {integrity: sha512-doVjXhSFvYZ7y0dNokjwwSahcrAfdz+/BCLvAMa/vHLzjj8+CFyV5xteThGUsKdkaasgN+gF2mUxao+SGLpUeA==}
     engines: {node: '>=16.9.0'}
 
   html-to-text@9.0.5:
@@ -1070,7 +1070,7 @@ snapshots:
 
   glob-to-regexp@0.4.1: {}
 
-  hono@4.8.4: {}
+  hono@4.9.6: {}
 
   html-to-text@9.0.5:
     dependencies:
