@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@react-email/render": "2.0.0",
-    "hono": "4.8.4",
+    "hono": "4.12.9",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "resend": "6.5.2"
