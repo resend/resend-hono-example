@@ -9,7 +9,7 @@
     "hono": "4.8.4",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "react-email": "6.0.0",
+    "react-email": "6.9.5",
     "resend": "6.5.2"
   },
   "devDependencies": {
