@@ -13,7 +13,7 @@
     "resend": "6.5.2"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.0.6",
+    "@biomejs/biome": "2.5.13",
     "@cloudflare/workers-types": "4.20250711.0",
     "@types/react": "19.1.8",
     "wrangler": "4.23.0"
